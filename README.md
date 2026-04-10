@@ -60,10 +60,6 @@ The repository is intended as companion material for the manuscript and can be e
 ### App Store Links
 - See: `tables/app_links.md`
 
-
-# TODO: Add scoring of single questionnaires
-
-
 ## SUS Items
 
 The administered items were:
