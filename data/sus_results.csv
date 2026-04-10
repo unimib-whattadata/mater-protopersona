@@ -1,0 +1,11 @@
+participant,raw_score,sus_score,type
+UT1,40,100.0,target
+UT2,40,100.0,target
+UT3,39,97.5,target
+UT4,37,92.5,target
+UT5,35,87.5,target
+UT6,37,92.5,target
+UT7,38,95.0,non-target
+UT8,37,92.5,non-target
+UT9,39,97.5,non-target
+UT10,38,95.0,non-target
